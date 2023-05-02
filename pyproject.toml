@@ -6,7 +6,7 @@ authors = ["Cleyson Lima <cleysonph@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-Flask = "^2.2.2"
+Flask = "^2.3.2"
 fastapi = "^0.79.1"
 uvicorn = {extras = ["standard"], version = "^0.18.2"}
 mysql-connector-python = "^8.0.30"
